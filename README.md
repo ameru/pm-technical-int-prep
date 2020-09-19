@@ -25,10 +25,11 @@ Each computer or server can communicate with other servers, i.e. networking. As 
 
 ## Fundamentals of Programming
 - Many online coding bootcamps offer great intro classes, Python and SQL are great languages to learn as a PM since much of your work will require data analysis
-- I took the following classes at Cal Poly to build up my CS foundation:
+- I took/am taking the following classes at Cal Poly to build up my CS foundation:
   - CPE 101 (Python)
   - BUS 392 (Java)
   - BUS 393 (SQL)
+  - CodePath Software Engineering Technical Interview Bootcamp
 
 ## How the Internet Works
 - Computer Networking
